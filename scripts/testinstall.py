@@ -1,0 +1,3 @@
+import wiringpi
+
+wiringpi.piBoardRev()
