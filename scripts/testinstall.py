@@ -1,3 +1,3 @@
 import wiringpi
 
-wiringpi.piBoardRev()
+print wiringpi.piBoardRev()
