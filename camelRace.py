@@ -1,4 +1,4 @@
-# import wiringpi
+import wiringpi
 import kivy
 from kivy.config import Config
 kivy.require('1.9.1')
